@@ -4,16 +4,17 @@ font-family:
 'Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'
 }
 
-.noa12 {
+header {
 position: fixed;
 background-color: #00e676;
 color: #fff;
 padding: 0.8em;
 font-size: 10px;
 width: 100%;
+box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
 }
 
-.noa12 p {
+header p {
 position: relative;
 top: 10px;
 font-size: 20px;
@@ -33,212 +34,203 @@ text-align: left;
 }
 
 .topimage {
-position: relative;
-top: 130px;
+padding-top: 120px;
 }
 
 .toplogo {
-position: relative;
+position: ;
 }
 
 .toplogo p {
-position: relative;
-top: 150px;
+position: ;
+padding-top: 30px;
 font-size: 25px;
 color: #000;
 }
 
 .topu {
-position: relative;
+position: ;
 }
 
 .topu p {
-position: relative;
-top: 160px;
+position: ;
+top: 10px;
 font-size: 15px;
 color: #999;
 }
 
-.contactbox {
-position: relative;
-top: 280px;
-height: 900px;
-padding: 0.8em;
-font-size: 200px;
-background-color: #F4F4F4;
-}
-
 .contactlogo {
-position: relative;
+position: ;
 }
 
 .contactlogo p {
-position: relative;
-top: 330px;
+position: ;
+padding-top: 190px;
 font-size: 25px;
 color: #000;
 }
 
 .contactu {
-position: relative;
+position: ;
 }
 
 .contactu p {
-position: relative;
-top: 340px;
+position: ;
+padding-top: 10px;
 font-size: 15px;
 color: #999;
 }
 
 .Twitter {
-position: relative;
-top: 380px;
+position: ;
+padding-top: 40px;
 }
 
 .Twitter p {
-position: relative;
-top: 20px;
+position: ;
+padding-top: 20px;
 font-size: 13px;
 color: #000;
 }
 
 .Twitteru {
-position: relative;
+position: ;
 }
 
 .Twitteru p {
-position: relative;
-top: 390px;
+position: ;
+padding-top: 10px;
 font-size: 15px;
 color: #999;
 }
 
 .Email {
-position: relative;
-top: 420px;
+position: ;
+padding-top: 30px;
 }
 
 .Email p {
-position: relative;
-top: 20px;
+position: ;
+padding-top: 20px;
 font-size: 13px;
 color: #000;
 }
 
 .Emailu {
-position: relative;
+position: ;
 }
 
 .Emailu p {
-position: relative;
-top: 430px;
+position: ;
+padding-top: 10px;
 font-size: 15px;
 color: #999;
 }
 
 .team {
-position: relative;
+position: ;
 }
 
 .team p {
-position: relative;
-top: 500px;
+position: ;
+padding-top: 70px;
 font-size: 25px;
 color: #000;
 }
 
 .teamu {
-position: relative;
+position: ;
 }
 
 .teamu p {
-position: relative;
-top: 510px;
+position: ;
+padding-top: 10px;
 font-size: 15px;
 color: #999;
 }
 
 .Minazuki {
-position: relative;
+position: ;
 }
 
 .Minazuki p {
-position: relative;
-top: 550px;
+position:  ;
+padding-top: 40px;
 font-size: 18px;
 color: #000;
 }
 
 .refu {
-position: relative;
+position: ;
 }
 
 .refu p {
-position: absolute;
+position: ;
 left: 98px;
-top: 560px;
+padding-top: 10px;
+padding-right: 43px;
 font-size: 18px;
 color: #000;
 }
 
 .sugi {
-position: relative;
+position: ;
 }
 
 .sugi p {
-position: absolute;
-left: 98px;
-top: 635px;
+position: ;
+padding-right: 47px;
+padding-top: 10px;
 font-size: 18px;
 color: #000;
 }
 
 .linux {
-position: relative;
+position: ;
 }
 
 .linux p {
-position: absolute;
-left: 98px;
-top: 710px;
+position: ;
+padding-right: 46px;
+padding-top: 10px;
 font-size: 18px;
 color: #000;
 }
 
 hr {
-position: relative;
-top: 820px;
+position: ;
+padding-top: 20px;
 }
 
 .instantjpn {
-position: relative;
+position: ;
 }
 
 .instantjpn p {
-position: relative;
-top: 840px;
+position: ;
+padding-top: 20px;
 font-size: 20px;
 color: #000;
 }
 
 .instantjpnu {
-position: relative;
+position: ;
 }
 
 .instantjpnu p {
-position: relative;
-top: 850px;
+position: ;
+padding-top: 10px;
 font-size: 15px;
 color: #999;
 }
 
 .empty {
-position: relative;
+position: ;
 }
 
 .empty p {
-position: relative;
-top: 860px;
+position: ;
+padding-top: 10px;
 font-size: 15px;
 color: #fff;
 }
