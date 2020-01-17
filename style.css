@@ -1,0 +1,244 @@
+body {
+  background: #fff;
+font-family:
+'Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'
+}
+
+.noa12 {
+position: fixed;
+background-color: #00e676;
+color: #fff;
+padding: 0.8em;
+font-size: 10px;
+width: 100%;
+}
+
+.noa12 p {
+position: relative;
+top: 10px;
+font-size: 20px;
+text-align: left;
+left: 15px;
+}
+
+.s {
+    margin-left : 10px;
+}
+
+
+h1 {
+font-size: 10px;
+position: relative;
+text-align: left;
+}
+
+.topimage {
+position: relative;
+top: 130px;
+}
+
+.toplogo {
+position: relative;
+}
+
+.toplogo p {
+position: relative;
+top: 150px;
+font-size: 25px;
+color: #000;
+}
+
+.topu {
+position: relative;
+}
+
+.topu p {
+position: relative;
+top: 160px;
+font-size: 15px;
+color: #999;
+}
+
+.contactbox {
+position: relative;
+top: 280px;
+height: 900px;
+padding: 0.8em;
+font-size: 200px;
+background-color: #F4F4F4;
+}
+
+.contactlogo {
+position: relative;
+}
+
+.contactlogo p {
+position: relative;
+top: 330px;
+font-size: 25px;
+color: #000;
+}
+
+.contactu {
+position: relative;
+}
+
+.contactu p {
+position: relative;
+top: 340px;
+font-size: 15px;
+color: #999;
+}
+
+.Twitter {
+position: relative;
+top: 380px;
+}
+
+.Twitter p {
+position: relative;
+top: 20px;
+font-size: 13px;
+color: #000;
+}
+
+.Twitteru {
+position: relative;
+}
+
+.Twitteru p {
+position: relative;
+top: 390px;
+font-size: 15px;
+color: #999;
+}
+
+.Email {
+position: relative;
+top: 420px;
+}
+
+.Email p {
+position: relative;
+top: 20px;
+font-size: 13px;
+color: #000;
+}
+
+.Emailu {
+position: relative;
+}
+
+.Emailu p {
+position: relative;
+top: 430px;
+font-size: 15px;
+color: #999;
+}
+
+.team {
+position: relative;
+}
+
+.team p {
+position: relative;
+top: 500px;
+font-size: 25px;
+color: #000;
+}
+
+.teamu {
+position: relative;
+}
+
+.teamu p {
+position: relative;
+top: 510px;
+font-size: 15px;
+color: #999;
+}
+
+.Minazuki {
+position: relative;
+}
+
+.Minazuki p {
+position: relative;
+top: 550px;
+font-size: 18px;
+color: #000;
+}
+
+.refu {
+position: relative;
+}
+
+.refu p {
+position: absolute;
+left: 98px;
+top: 560px;
+font-size: 18px;
+color: #000;
+}
+
+.sugi {
+position: relative;
+}
+
+.sugi p {
+position: absolute;
+left: 98px;
+top: 635px;
+font-size: 18px;
+color: #000;
+}
+
+.linux {
+position: relative;
+}
+
+.linux p {
+position: absolute;
+left: 98px;
+top: 710px;
+font-size: 18px;
+color: #000;
+}
+
+hr {
+position: relative;
+top: 820px;
+}
+
+.instantjpn {
+position: relative;
+}
+
+.instantjpn p {
+position: relative;
+top: 840px;
+font-size: 20px;
+color: #000;
+}
+
+.instantjpnu {
+position: relative;
+}
+
+.instantjpnu p {
+position: relative;
+top: 850px;
+font-size: 15px;
+color: #999;
+}
+
+.empty {
+position: relative;
+}
+
+.empty p {
+position: relative;
+top: 860px;
+font-size: 15px;
+color: #fff;
+}
