@@ -11,7 +11,7 @@ color: #fff;
 padding: 0.8em;
 font-size: 10px;
 width: 100%;
-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25);
 }
 
 .header p {
@@ -192,6 +192,18 @@ position: ;
 .linux p {
 position: ;
 padding-right: 46px;
+padding-top: 10px;
+font-size: 18px;
+color: #000;
+}
+
+.shibu {
+position: ;
+}
+
+.shibu p {
+position: ;
+padding-left: 12px;
 padding-top: 10px;
 font-size: 18px;
 color: #000;
